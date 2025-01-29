@@ -67,10 +67,16 @@ I will review and respond to your issue as soon as possible. Your participation 
 **Note:** Pages and interfaces may change over time, but the steps to create an issue generally remain the same.  
 
 # 🤝 Contributing to the Repository
-If you want to update or modify the Repository:
-- Fork this repository.
-- Make your changes in a new branch.
-- Submit a **Pull Request** with a detailed description of your changes.
+To contribute to this repository, please follow these steps:
+1. **Fork the Repository**  
+2. **Clone the Forked Repository**  
+3. **Create a New Branch**  
+4. **Make Your Changes**  
+5. **Commit Your Changes**  
+6. **Push Your Changes to Your Forked Repository**  
+7. **Submit a Pull Request (PR)**  
+
+Please ensure your pull request includes a clear description of the changes you’ve made. Once submitted, I will review your contribution and provide feedback if necessary.
 
 # 🌟 Support Me
 If you found this repository useful:
