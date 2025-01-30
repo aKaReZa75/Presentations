@@ -97,5 +97,3 @@ Feel free to reach out to me through any of the following platforms:
 - 📧 [Email: aKaReZa75@gmail.com](mailto:aKaReZa75@gmail.com)
 - 🎥 [YouTube: @aKaReZa75](https://www.youtube.com/@aKaReZa75)
 - 💼 [LinkedIn: @akareza75](https://www.linkedin.com/in/akareza75)
-
-
