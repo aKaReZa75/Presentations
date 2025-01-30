@@ -1,8 +1,9 @@
 # 📚 Presentations Repository  
 This repository contains all the presentation files used in my educational videos. The goal is to provide easy and centralized access to all the materials for your learning needs.  
 
-**Note:** The content here is updated regularly to include new presentations as they are created.  
-
+> [!NOTE]
+> The content here is updated regularly to include new presentations as they are created.
+ 
 # 💻 How to Use Git and GitHub
 
 ### Clone using the URL.
@@ -61,9 +62,9 @@ Follow these steps:
 - Once extracted, you can access the repository files in the destination folder.
 
 > [!IMPORTANT]
-> No Updates: Keep in mind that downloading the repository as a ZIP file does not allow you to receive updates.    
-> If the repository is updated, you will need to download it again manually.  
-> Ease of Use: This method is simpler and suitable for users who are not comfortable with Git or command-line tools.
+> - No Updates: Keep in mind that downloading the repository as a ZIP file does not allow you to receive updates.    
+>   If the repository is updated, you will need to download it again manually.  
+> - Ease of Use: This method is simpler and suitable for users who are not comfortable with Git or command-line tools.
 
 # 📝 How to Ask Questions
 If you have any questions or issues, you can raise them through the **"Issues"** section of this repository. Here's how you can do it:  
@@ -88,13 +89,15 @@ If you have any questions or issues, you can raise them through the **"Issues"**
 
 I will review and respond to your issue as soon as possible. Your participation helps improve the repository for everyone!  
 
-**Tips**:  
-- Before creating a new issue, please check the **"Closed"** section to see if your question has already been answered.  
-   ![Closed section](Images/Step6.png)  
-- Write your question clearly and respectfully to ensure a faster and better response.  
-- While the examples provided above are in English, feel free to ask your questions in **Persian (فارسی)** as well. There is no difference in how they will be handled!  
+> [!TIP]
+> - Before creating a new issue, please check the **"Closed"** section to see if your question has already been answered.  
+>   ![Closed section](Images/Step6.png)  
+> - Write your question clearly and respectfully to ensure a faster and better response.  
+> - While the examples provided above are in English, feel free to ask your questions in **Persian (فارسی)** as well.  
+> - There is no difference in how they will be handled!  
 
-**Note:** Pages and interfaces may change over time, but the steps to create an issue generally remain the same.  
+> [!NOTE]
+> Pages and interfaces may change over time, but the steps to create an issue generally remain the same.
 
 # 🤝 Contributing to the Repository
 To contribute to this repository, please follow these steps:
@@ -106,7 +109,9 @@ To contribute to this repository, please follow these steps:
 6. **Push Your Changes to Your Forked Repository**  
 7. **Submit a Pull Request (PR)**  
 
-Please ensure your pull request includes a clear description of the changes you’ve made. Once submitted, I will review your contribution and provide feedback if necessary.
+> [!NOTE]
+> Please ensure your pull request includes a clear description of the changes you’ve made.
+> Once submitted, I will review your contribution and provide feedback if necessary.
 
 # 🌟 Support Me
 If you found this repository useful:
