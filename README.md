@@ -5,17 +5,17 @@ This repository contains all the presentation files used in my educational video
 
 # 💻 How to Use Git and GitHub
 
+### Clone using the URL.
 First, open **Git Bash** :
 -  Open the folder in **File Explorer** where you want the library to be stored.
 -  **Right-click** inside the folder and select the option **"Open Git Bash here"** to open **Git Bash** in that directory.
 
 ![open Git Bash](Images/Step0.png)
 
-> Note: If you do not see the "Open Git Bash here" option, it means that Git is not installed on your system.
-> 
->  You can download and install Git from [this link](https://git-scm.com/downloads).
->  
->  For a tutorial on how to install and use Git, check out [this video](https://youtu.be/BsykgHpmUt8).
+> [!NOTE] 
+> If you do not see the "Open Git Bash here" option, it means that Git is not installed on your system.  
+> You can download and install Git from [this link](https://git-scm.com/downloads).  
+> For a tutorial on how to install and use Git, check out [this video](https://youtu.be/BsykgHpmUt8).
   
 -  Once **Git Bash** is open, run the following command to clone the repository:
 
@@ -33,7 +33,37 @@ git clone https://github.com/aKaReZa75/Presentations
 
 ![Open the Library File](Images/Step2.png)
 
-**Note:** Please keep in mind that the numbers displayed in the image might vary when you perform the same actions. This is because repositories are continuously being updated and expanded. Nevertheless, the overall process remains unchanged.
+> [!NOTE]
+> Please keep in mind that the numbers displayed in the image might vary when you perform the same actions.  
+> This is because repositories are continuously being updated and expanded. Nevertheless, the overall process remains unchanged.
+
+## Download Zip
+If you prefer not to use Git Bash or the command line, you can download the repository directly from GitHub as a ZIP file.  
+Follow these steps:  
+1. Navigate to the GitHub repository page and Locate the Code button:
+- On the main page of the repository, you will see a green Code button near the top right corner.
+
+2. Download the repository:
+- Click the Code button to open a dropdown menu.
+- Select Download ZIP from the menu.
+
+  ![Download Zip](Images/Step7.png)  
+
+3. Save the ZIP file:
+- Choose a location on your computer to save the ZIP file and click Save.
+
+4. Extract the ZIP file:
+- Navigate to the folder where you saved the ZIP file.
+- Right-click on the ZIP file and select Extract All... (Windows) or use your preferred extraction tool.
+- Choose a destination folder and extract the contents.
+
+5. Access the repository:
+- Once extracted, you can access the repository files in the destination folder.
+
+> [!IMPORTANT]
+> No Updates: Keep in mind that downloading the repository as a ZIP file does not allow you to receive updates.    
+> If the repository is updated, you will need to download it again manually.  
+> Ease of Use: This method is simpler and suitable for users who are not comfortable with Git or command-line tools.
 
 # 📝 How to Ask Questions
 If you have any questions or issues, you can raise them through the **"Issues"** section of this repository. Here's how you can do it:  
