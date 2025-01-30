@@ -6,7 +6,7 @@ This repository contains all the presentation files used in my educational video
  
 # 💻 How to Use Git and GitHub
 
-### Clone using the URL.
+## Clone using the URL.
 First, open **Git Bash** :
 -  Open the folder in **File Explorer** where you want the library to be stored.
 -  **Right-click** inside the folder and select the option **"Open Git Bash here"** to open **Git Bash** in that directory.
