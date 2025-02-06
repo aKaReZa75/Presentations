@@ -1,6 +1,9 @@
 # 📚 Presentations Repository  
 This repository contains all the presentation files used in my educational videos. The goal is to provide easy and centralized access to all the materials for your learning needs.  
 
+> [!CAUTION]
+> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
+
 > [!NOTE]
 > The content here is updated regularly to include new presentations as they are created.
  
