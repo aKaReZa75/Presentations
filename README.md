@@ -4,8 +4,11 @@ This repository contains all the presentation files used in my educational video
 > [!CAUTION]
 > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
 
-> [!NOTE]
-> The content here is updated regularly to include new presentations as they are created.
+> [!TIP]
+> If you're looking to better understand how to navigate and use my GitHub repositories — including exploring their structure, downloading or cloning projects, submitting issues, and asking questions 
+> everything you need is clearly explained in this video:  
+> [aKaReZa 95 - Programming, Git - PART B](https://youtu.be/zYiUItVFRqQ)   
+> Make sure to check it out!
  
 # 💻 How to Use Git and GitHub
 To access the repository files and save them on your computer, there are two methods available:
