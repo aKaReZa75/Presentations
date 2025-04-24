@@ -1,9 +1,6 @@
 # 📚 Presentations Repository  
 This repository contains all the presentation files used in my educational videos. The goal is to provide easy and centralized access to all the materials for your learning needs.  
 
-> [!CAUTION]
-> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
-
 <table>
   <tr>
   <td valign="top">
@@ -22,7 +19,17 @@ This repository contains all the presentation files used in my educational video
              alt="aKaReZa 95 - Programming, Git - PART B Thumbnail"/>
       </a>
     </td>
+
+  </td>
   </tr>
+  <tr>
+  <td colspan="2">
+
+  > [!CAUTION]
+  > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
+      
+  </td>
+  </tr>  
 </table>
  
 # 💻 How to Use Git and GitHub
